@@ -1,6 +1,8 @@
-# Simple Tailwind CSS Starter
+# Product Model card for online shopping
+## Project Deployed Link:
+https://product-model-brown.vercel.app/
 
-This is an extremley simple setup to develop Tailwind projects. This will be used in my Tailwind From Scratch course.
+This is project to learn and practice Tailwind CSS with Udemy Course
 
 ## Usage
 
